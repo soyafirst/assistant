@@ -1,0 +1,6 @@
+{
+  "name": "OmniPC Assistant",
+  "description": "Tableau de bord et assistant IA local inspiré de Claude.ai avec contrôle système PC, aiguillage bi-moteur et panneau d'artefacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
